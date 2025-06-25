@@ -3,3 +3,6 @@ tz.txt
 .env
 node_modules/
 __pycache__
+Dockerfile
+docker-compose.yml
+Dockerfile
