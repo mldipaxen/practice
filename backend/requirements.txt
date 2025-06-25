@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+requests
+pymysql
+python-dotenv
+sqlalchemy
