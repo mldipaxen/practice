@@ -9,8 +9,6 @@
 
 3) Укажите данные базы данных с сервера Postgres в файле .env
 
-4) перейдите в папку backend
-в терминале введите uvicorn app.main:app --reload
-5) перейдите в папку frontend
-в терминале введите npm start
+4) перейдите в папку backend, в терминале введите uvicorn app.main:app --reload
+6) перейдите в папку frontend, в терминале введите npm start
 
