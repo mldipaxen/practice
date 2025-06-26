@@ -10,3 +10,4 @@
         в терминале введите uvicorn app.main:app --reload
 5) перейдите в папку frontend
         в терминале введите npm start
+
