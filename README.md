@@ -1,7 +1,7 @@
 Сервис для сокращения ссылок. Frontend - React Backend - Python (uvicorn, fastapi, sqlalchemy) DB server - Postgres 
 доки по умолчанию доступны по localhost:8000 
 приложение localhost:3000 
-Для того, чтобы запустить серви:
+Для того, чтобы запустить сервис:
 
 1) Установите зависимости из файла requirements.txt
 
